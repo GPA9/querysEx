@@ -1,0 +1,31 @@
+.container-1, .container-2, .container-3, .container-4 {
+    text-align: center;
+
+}
+body {
+    margin: 15px;
+    background-color: antiquewhite;
+}
+.box {
+    height: 150px;
+    position: relative;
+}
+.orange {
+    background-color: orange;
+    display: inline-block;
+    width: 40%;
+}
+.green {
+    background-color: yellowgreen;
+    clear: both;
+}
+.blue {
+    background-color: blue;
+    display: inline-block;    
+    width: 30%;
+}
+.grey {
+    background-color: grey;
+    display: inline-block;
+    width: 20%;
+}
